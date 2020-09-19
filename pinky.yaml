@@ -10,9 +10,9 @@ base06: "ffffff" # light foreground
 base07: "f7f3f7" # light background
 base08: "ffa600" # variables
 base09: "00ff66" # ints, bools, constants
-base0a: "20df6c" # classes, search text background
-base0b: "ff0066" # strings
-base0c: "6600ff" # regex, escape chars
-base0d: "00ffff" # functions, methods, headings
-base0e: "007fff" # keywords, storage, selector
-base0f: "df206c" # Opening/Closing embedded language tags
+base0A: "20df6c" # classes, search text background
+base0B: "ff0066" # strings
+base0C: "6600ff" # regex, escape chars
+base0D: "00ffff" # functions, methods, headings
+base0E: "007fff" # keywords, storage, selector
+base0F: "df206c" # Opening/Closing embedded language tags
